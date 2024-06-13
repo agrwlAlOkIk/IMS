@@ -77,14 +77,6 @@ You should now see the frontend page of the Inventory Management System. From he
 - **Delete Inventory**: Remove items from the inventory.
 - **Search Inventory**: Use the search feature to find specific items quickly.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Contributions are always welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to the DBMS course instructors for their guidance.
